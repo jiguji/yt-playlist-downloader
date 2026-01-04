@@ -1,0 +1,8 @@
+# YouTube Playlists Download List
+# Format: ChannelName|PlaylistURL
+# Lines starting with # are comments and will be ignored
+# 
+# Example:
+# Linux Tips|https://www.youtube.com/playlist?list=PLT98CRl2KxKF26ekyZUT_XtQ9HPciZKHX
+
+# Add your playlists below:
